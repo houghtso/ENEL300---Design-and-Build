@@ -6,7 +6,7 @@
 
 # Game Setup
 - Connect the circuit to the arduino (header pins are the same!) and place back in housing.
-- Connect the arduino to a computer and download the file (from this repository) called "PUT FILE NAME HERE"
+- Connect the arduino to a computer and download the file (from this repository) called "300FinalCODE.ino"
 - Open up the Arduino IDE and then open the file (or open the file and it'll do it automatically!)
 - Upload the code to the Arduino
 - Yay, you have started up the game!
